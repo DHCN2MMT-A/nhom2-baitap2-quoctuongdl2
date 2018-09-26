@@ -1,0 +1,80 @@
+nav 
+{
+    text-align: right;
+}
+h1
+{
+    text-align: center;
+    color: red;
+    text-decoration:underline;
+}
+
+.leftBox
+{
+  width: 50%;
+  float: left;
+  padding-left:100;
+}
+.leftBox img
+{
+ width: 55%;
+ padding-left: 55px;
+}
+.rightBox
+{
+  width: 50%;
+  float: right;
+  color: blue;
+}
+section
+{
+  padding: 25px;
+}
+.box
+{
+  clear: both;
+}
+#elon
+{
+    width: 200px;
+    height: 200px; 
+    padding-left:200px
+}
+h3
+{
+    text-align: center;
+    clear: right;
+    color: black;
+    text-decoration:underline;
+}
+.centerBox
+{
+    padding-left: 50px;
+}
+iframe
+{
+    width: 650px;
+    height: 400px;
+}
+
+#Awards li:nth-child(odd){
+ 
+    color: red;
+}
+
+li:nth-child(even)
+ {
+    color: blue;
+
+}
+#PopMedia
+li:nth-child(even){
+ 
+    color: red;
+}
+
+li:nth-child(odd)
+ {
+    color: blue;
+
+}
